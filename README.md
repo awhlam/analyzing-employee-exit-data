@@ -1,4 +1,4 @@
-# analyzing-employee-exit-data
+# Analyzing Employee Exit Data
 Jupyter notebook in Python using [Pandas](https://pandas.pydata.org/) to analyze Australian employee exit data as part of [Dataquests' Data Cleaning and Analysis](https://www.dataquest.io/course/python-datacleaning/) course.
 
 ## Release History
